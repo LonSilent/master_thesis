@@ -14,6 +14,8 @@ Download [review](https://drive.google.com/file/d/1u-zG2k5ZCzpzkRVHF0SpATTBoqc-D
 ## Dependencies
 
 ```
+pip install numpy
+pip install scipy
 pip install nltk
 pip install networkx
 pip install gensim
